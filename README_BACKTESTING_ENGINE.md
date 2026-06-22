@@ -89,4 +89,3 @@ The database holds two logical groups of data:
 **Cluster data** — clusters are grouped under a named strategy. Each cluster stores the pivot ticker and the list of assets included. Each execution of a cluster is stored as a run, and every TP/SL combination for every ticker in that run is stored as an individual cluster simulation record, tagged with a parameter hash that links matching combinations across tickers.
 
 ---
-=======
