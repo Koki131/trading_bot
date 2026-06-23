@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Backtesting Engine
 
 A strategy backtesting platform built on Spring Boot, React, PostgreSQL, and TimescaleDB. It ingests OHLCV data from Binance, generates multi-timeframe views automatically, and runs parameterised strategy simulations with results surfaced on an interactive TradingView chart. A second view handles cross-asset cluster analysis — finding TP/SL parameter combinations that hold up across a basket of instruments.
